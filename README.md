@@ -1,3 +1,5 @@
 # ts
 
-hahahah koukl jste do readme
+záznam o projektu
+
+poznámky atd..
